@@ -18,7 +18,7 @@ So you can figure out what pin is GPIO_00 on your Raspberry pi.
 
 Connect LED with 1K ohm resistor.
 
-# YOU MUST USE RESISTOR WITH LED OTHERWISE IT MAY CAUSE DAMAGE TO YOUR RASPBERRY PI! 
+YOU MUST USE RESISTOR WITH LED OTHERWISE IT MAY CAUSE DAMAGE TO YOUR RASPBERRY PI! 
 
 
 Download IXI module from ICT's web GUI with Qaamien/BlinkingLedIxi
