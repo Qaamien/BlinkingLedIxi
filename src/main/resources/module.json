@@ -3,7 +3,7 @@
   "name": "BlinkingLed.ixi",
   "main_class": "BlinkingLedixi",
   "description": "Blink led everytime ict node receives gossip event",
-  "repository": "Qaamien/Blinking-Led-PI4J-IXI-module",
+  "repository": "Qaamien/BlinkingLedIxi",
   "gui_port": 0,
   "supported_versions": ["0.4", "0.4.1-SNAPSHOT"]
 }
